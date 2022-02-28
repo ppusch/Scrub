@@ -1,2 +1,2 @@
-node_modules/
-./.Github/*.env
+# ignore all .env files
+*.env
