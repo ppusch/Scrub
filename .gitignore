@@ -1,2 +1,2 @@
 # ignore all .env files yes
-*.env
+.env
